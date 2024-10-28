@@ -1,0 +1,51 @@
+body{
+  background-color: black;
+  font-family: "EB Garamond", serif;
+}
+
+.content{
+  padding-top: 25px;
+  background-color: white;
+  min-height: 550px;
+  width: 450px;
+  border-radius: 5px;
+  align-items: center;
+  margin-left: 35%;
+  margin-top: 10px;
+ 
+
+  
+}
+.formfield{
+  margin-left: 30px;
+}
+.headcontent{
+  padding-left: 30px;
+}
+.amount{
+  background-color: rgba(255, 217, 0, 0.975);
+  height: 120px;
+  width: 370px;
+  margin-left: 30px;
+  border-radius: 8px;
+  color: white;
+  padding-top: 20px;
+  text-align: center;
+}
+#outlined-basic{
+  width: 350px;
+}
+#buttons{
+border: none;
+height: 40px;
+width: 180px;
+background-color: black;
+
+}
+#button2{
+  border: 1px solid blue ;
+height: 40px;
+width: 180px;
+color: #3314d0;
+background: none;
+}
